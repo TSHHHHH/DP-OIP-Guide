@@ -12,7 +12,7 @@ This wiki is managed by the Digipen Singapore SMC team. Content may require upda
 - [Arrival in the USA](#Arrival-in-the-USA)
 - [Adapting to Life in Redmond & DigiPen](#Adapting-to-Life-in-Redmond-&-DigiPen)
 - [Grocery Shopping](#Grocery-Shopping)
-- [Academic and Career Planning](#Academic and Career Planning)
+- [Academic and Career Planning](#Academic-and-Career-Planning)
 - [Renting or Buying a Car as a Student in Redmond, USA](#enting-or-Buying-a-Car-as-a-Student-in-Redmond,-USA)
 - [Traffic rules you may not be aware of](#Traffic-rules-you-may-not-be-aware-of)
 - [Current Affairs](#Current-Affairs)

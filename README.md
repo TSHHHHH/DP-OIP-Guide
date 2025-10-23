@@ -11,6 +11,7 @@ This wiki is managed by the Digipen Singapore SMC team. Content may require upda
 - [Packing Essentials](#Packing-Essentials)
 - [Arrival in the USA](#Arrival-in-the-USA)
 - [Adapting to Life in Redmond & DigiPen](#Adapting-to-Life-in-Redmond-&-DigiPen)
+- [Point of interests](#Point-of-interests)
 - [Grocery Shopping](#Grocery-Shopping)
 - [Academic and Career Planning](#Academic-and-Career-Planning)
 - [Renting or Buying a Car as a Student in Redmond, USA](#enting-or-Buying-a-Car-as-a-Student-in-Redmond,-USA)
@@ -124,6 +125,9 @@ Redmond is a quiet suburb which is pretty clean and safe. You will be staying ne
   * You have to ride on the road not pavement.
 
 [Back to Top](#Redmond-Table-of-Content)
+
+# Point of interests
+[Google Map Bookmarks](https://maps.app.goo.gl/rQiBpSyeNtE6x5xBA)
 
 # Grocery Shopping
 There are a lot of options for shopping in Redmond and around the area. Here are some popular options (distances if given are measured from The Knoll, as that is the most “central” of the 4 complexes):

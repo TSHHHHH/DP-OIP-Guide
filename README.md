@@ -3,7 +3,7 @@ The goal is to ensure all students have a safe, successful, and memorable OIP ex
 
 This wiki is managed by the Digipen Singapore SMC team. Content may require updates as time goes by. If you have any suggestions and wish to contribute, feel free to make PR other wise please approach any SMC member through Telegram or the Discord server for assistance.
 
-# Redmond Table of Content
+# :us:Redmond Table of Content
 - [Visa Application](#Visa-Application)
 - [Flight Booking](#Flight-Booking)
 - [Financial Preparations](#Financial-Preparations)
@@ -14,11 +14,11 @@ This wiki is managed by the Digipen Singapore SMC team. Content may require upda
 # Pre‐Departure Preparation
 ## Visa Application
 Things to look out for during the visa interview.
-* Triple-check all your information before you submit your Visa application. They are very strict in this part.
+* **Triple-check all your information** before you submit your Visa application/going the [US Embassy](https://share.google/AukdTSaWGmUwNNIs0). They are very strict in this part.
 * Be confident during the interview. Do not make unnecessary jokes.
 * Clear your social media.
   
-[Back to Top](#Redmond-Table-of-Content)
+[Back to Top](#:us:Redmond-Table-of-Content)
 
 ## Flight Booking
 * Once the school confirms the start dates, book as early as possible. If you want to travel before or after the term starts, make sure you leave enough time. The last official day of school is the Friday of the last week, consider that when making plans.
@@ -38,16 +38,38 @@ Things to look out for during the visa interview.
 [Back to Top](#Redmond-Table-of-Content)
 
 ## Packing Essentials
-Is there anything we should pack before going to USA, and it may be hard to get in the states?
-Make sure to bring at least 2 adapters and at least 2 Power Strip per house for your electronics, due to the lack of these utilities provided by the school.
-Clips and/or rubber bands may be useful to bring to seal up your food & ingredients.
-Bring reusable bags and/or plastic bags! If you have to get a bag at the grocery store, it can be anywhere from a few cents up to like 20 to 25 cents! Do not need to bring trash bags unless otherwise stated, each accommodation is given a box of trash bags that can last throughout the semester.
-Bring your personal medication as necessary, painkillers, fever, flu, medicated plaster for bruises and sprains(Tiger balm or anything related) , and burn aid.
-Any Lithium-ion batteries must be hand-carried, so basically chargers and power banks, CCD cameras, etc.
+### Is there anything we should pack before going to USA, and it may be hard to get in the states?
+* Make sure to bring at least 2 adapters and at least 2 Power Strip per house for your electronics, due to the lack of these utilities provided by the school.
+* Clips and/or rubber bands may be useful to bring to seal up your food & ingredients.
+* Bring reusable bags and/or plastic bags! If you have to get a bag at the grocery store, it can be anywhere from a few cents up to like 20 to 25 cents! Do not need to bring trash bags unless otherwise stated, each accommodation is given a box of trash bags that can last throughout the semester.
+* Bring your personal medication as necessary, painkillers, fever, flu, medicated plaster for bruises and sprains(Tiger balm or anything related) , and burn aid.
+* Any Lithium-ion batteries must be hand-carried, so basically chargers and power banks, CCD cameras, etc.
+
+### NO GO
+* DO NOT bring fresh food.
 
 [Back to Top](#Redmond-Table-of-Content)
 
 ## (⚠️WIP) Accommodation Recommendation
 This section only applies to those interested in pre- or post-trip.
 
+# Arrival in the USA
+## Immigration & Customs at the Airport
+* Have your passport with your visa and your I-20 ready to clear custom.
+* Answer honestly.
 
+[Back to Top](#Redmond-Table-of-Content)
+
+## Transport from the Airport to Redmond
+* Take an airport shuttle bus
+* Uber/Lyft
+* Rent a car (hertz, alamo, enterprise sixt). Rental car might need **credit card**, please check before you make reservation. They also do not accept any last min rental, please pre-book at least 24hrs before.
+* Public transport
+
+[Back to Top](#Redmond-Table-of-Content)
+
+## Settling into Accommodation
+* Buy essentials (groceries, SIM card( ESim from trello 3mth plan and mint ))
+* You can get second hand furniture from Facebook market, for those who stay at level 3 i recommend to get an portable aircon if you scared hot
+
+[Back to Top](#Redmond-Table-of-Content)
